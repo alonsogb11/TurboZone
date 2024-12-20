@@ -7,8 +7,11 @@ Este es el proyecto final universitario de la materia Programación Web (INF-224
 * [LinkedIn](https://www.linkedin.com/in/alonsogb11/)
 
 **Oliver Tavarez**
+
 **Caroline Perez**
+
 **Carlos Bobea**
+
 **Ruby Rosario**
 
 ## Visualización en vivo 🪄
