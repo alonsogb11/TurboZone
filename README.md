@@ -1,21 +1,32 @@
-Se trata de una página de un concecionario ficticio llamado TurboZone, aquí los requisitos requeridos:
+# 🚧 _Work in progress_ 🚧
 
- - Se desea desarrollar una aplicación web que contenga una base de datos que sea de utilidad para un concesionario de automóviles.
+## _Description_ ✏️
+This is the final project of the _Programación Web (INF-224)_ subject of UNAPEC, it is a web page of a fictitious dealership called _**TurboZone**_, in which it is requested to integrate a database to a web application. The database is made in SQL Server Management Studio 20, and the web application with **Blazor Web Assembly** using the **.NET 8.0 framework** and the **clean architecture principle** in Visual Studio Community 2022.
 
- - Un concesionario puede vender automóviles de varias marcas (por ejemplo, Audi y Volkswagen).
+## _Authors_ 💡
+**Alonso Genao**
 
- - Sobre los automóviles se desea mantener la siguiente información: marca, modelo, precio, descuento (si es que lo tiene) y los datos técnicos (potencia fiscal, cilindrada, etc.).
+* [LinkedIn](https://www.linkedin.com/in/alonsogb11/)
 
- - Para cada modelo de automóvil se quiere conocer las características de su equipamiento de serie (por ejemplo: airbag conductor y cierre centralizado), así como los extras que se pueden incluir (aire acondicionado, airbag acompañante, pintura metalizada, etc.) y el precio de cada uno de ellos. Notar que, lo que son características del equipamiento de serie de algunos modelos, son extras para otros modelos. Por ejemplo, hay modelos que llevan el airbag de serie mientras que otros lo tienen como un posible extra.
+**Oliver Tavarez**
 
- - El concesionario tiene siempre automóviles de varios modelos en stock (cada uno se identifica por su número de bastidor). Éstos se pueden encontrar en su mismo local, o bien, en cualquiera de los servicios oficiales que dependen de él.
+* [LinkedIn](http://www.linkedin.com/in/oliver-tavarez-del-valle-b42a44255)
 
- - Un servicio oficial es también una tienda de automóviles, pero depende de un concesionario que es el que le presta los automóviles para su exposición, y también se los vende.
+**Caroline Perez**
 
- - De cada servicio oficial se conoce el nombre, domicilio y NIF. Cuando se vende un automóvil se quiere saber quién lo ha vendido: puede ser uno de los vendedores del concesionario o bien un servicio oficial.
+**Carlos Bobea**
 
- - También se desea saber el precio que se ha cobrado por él y el modo de pago: al contado o mediante financiera.
+**Ruby Rosario**
 
- - También se guardará información sobre los extras que se han incluido, precio de cada uno, la fecha de entrega, matrícula y si era de stock o se ha tenido que encargar a fábrica.
+## _Live view_ 🪄
 
- - De los vendedores se almacenarán los datos personales (nombre, NIF, domicilio, etc.) y las ventas realizadas.
+* _Not available at the moment_
+
+## _Installation_ 📦
+This project does not require installation. Simply run the API first and then the graphical interface (WebUI).
+
+## _Info_ ℹ️
+If you want to know something related to this project, contact me at alonsogb11604@gmail.com.
+
+## _License_ 📄
+_N/a_
